@@ -1,0 +1,23 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciofondon/NodeJS-Platziverse.git"
+  },
+  "keywords": [
+    "nodejs",
+    "iot"
+  ],
+  "author": "luciofondonterron@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciofondon/NodeJS-Platziverse/issues"
+  },
+  "homepage": "https://github.com/luciofondon/NodeJS-Platziverse#readme"
+}
